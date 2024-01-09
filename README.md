@@ -1,9 +1,27 @@
-# Rock-Paper-Scissors-Using-HTML-and-JavaScript
-Background image src - https://www.vecteezy.com/free-vector/rock-paper-scissors
+# Rock Paper Scissors Game
 
-# How to Run:
-1.Open index.html file in your local browser
+## Description
 
-2.Choose your move by clicking on one of the 3 buttons
+An interactive Rock-Paper-Scissors game using JavaScript, HTML, and CSS for a dynamic user experience. Play against the computer, make your choice with clickable buttons, and see instant results on the webpage!
 
-3.Choose a new move to play again
+## Installation
+###### Clone the Repository:
+
+```git clone https://github.com/Ridwan778/rock-paper-scissors.git ```
+
+###### Install Pygame:
+
+Ensure you have Pygame installed. If not, install it via pip: 
+``` pip install pygame ```
+
+## Usage
+###### Run the Game:
+
+``` cd Flappy-Bird ```
+
+``` python flappy.py ```
+
+###### Game Instructions:
+
+ Click on one of the buttons labeled "Rock," "Paper," or "Scissors" to make your choice. 
+ The computer will randomly select its choice, and the winner will be determined based on the rules of the game.
