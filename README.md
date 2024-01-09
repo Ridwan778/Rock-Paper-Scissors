@@ -24,4 +24,5 @@ Ensure you have Pygame installed. If not, install it via pip:
 ###### Game Instructions:
 
  Click on one of the buttons labeled "Rock," "Paper," or "Scissors" to make your choice. 
+ 
  The computer will randomly select its choice, and the winner will be determined based on the rules of the game.
